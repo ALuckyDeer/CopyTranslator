@@ -12,8 +12,8 @@
 
 若失效请打开金山词霸网页使用F12找到指定元素，修改translator.py的34 40 53行
 
-img.png
+https://github.com/XingKongXiaDeFeng/CopyTranslator/blob/master/img.png
 
-img_1.png
+https://github.com/XingKongXiaDeFeng/CopyTranslator/blob/master/img_1.png
 
-img_2.png
+https://github.com/XingKongXiaDeFeng/CopyTranslator/blob/master/img_2.png
