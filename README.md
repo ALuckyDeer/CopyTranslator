@@ -24,6 +24,7 @@ Made with pyqt5, get the contents of the pasteboard and post data
 The content of Kingsoft Ciba web page is parsed by using beatifulsoup, and then extracted
 
 If it fails, please open Kingsoft Ciba web page, use F12 to find the specified element, and modify line 34, 40 and 53 of translator.py
+---
 
 ![](img.png)
 
