@@ -35,7 +35,7 @@ class Translater:
             if not temp_results:
                 return True
             base = temp_results[0]
-            print(base)
+            #print(base)
             # 获取基本词义
             temp_results = base.find_all('ul', class_='Mean_part__1Xi6p')
             if temp_results:
